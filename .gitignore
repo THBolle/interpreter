@@ -1,0 +1,5 @@
+# Ignore all files in waiig_code folder
+waiig_code_1.3/
+
+# Ignore interpreter pdf file
+writing an INTERPRETER in go.pdf
